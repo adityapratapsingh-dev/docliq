@@ -1,0 +1,7 @@
+node_modules
+.env
+dist
+
+# The repo-wide .gitignore hides every .env* file. Keep the example file
+# visible so new developers have something to copy.
+!.env.example
